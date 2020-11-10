@@ -1,4 +1,4 @@
-# informe sobre la Práctica
+# Informe sobre la Práctica
 
 
 ## Informe Alumno XXX1
