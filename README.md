@@ -6,6 +6,8 @@
 * [Enlace al Repo de la Práctica](http://...)
 * [Enlace a la Web desplegada](...)
 * [Enlace a su página en el Campus Virtual](...)
+* [Enlace a las incidencias de su repo](...)
+* etc.
 
 Breve informe
 
@@ -14,6 +16,7 @@ Breve informe
 * [Enlace al Repo de la Práctica](http://...)
 * [Enlace a la Web desplegada](...)
 * [Enlace a su página en el Campus Virtual](...)
+* [Enlace a las incidencias de su repo](...)
 
 Breve informe
 
@@ -22,5 +25,6 @@ Breve informe
 * [Enlace al Repo de la Práctica](http://...)
 * [Enlace a la Web desplegada](...)
 * [Enlace a su página en el Campus Virtual](...)
+* [Enlace a las incidencias de su repo](...)
 
 Breve informe
