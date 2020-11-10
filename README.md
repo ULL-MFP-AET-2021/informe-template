@@ -28,3 +28,7 @@ Breve informe
 * [Enlace a las incidencias de su repo](...)
 
 Breve informe
+
+## Conclusiones
+
+Blah ...
